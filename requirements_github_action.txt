@@ -40,4 +40,3 @@ tomlkit==0.13.2
 typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.4.0
-win-precise-time==1.4.2
